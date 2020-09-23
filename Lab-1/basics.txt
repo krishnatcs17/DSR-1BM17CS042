@@ -1,0 +1,12 @@
+getwd()
+setwd("D:\\BMSCE\\sem7\\DSR")
+list.files()
+help(plot)
+?plot
+example(mean)
+help.start()
+find('plot')
+demo(graphics)
+
+
+library("spatial")

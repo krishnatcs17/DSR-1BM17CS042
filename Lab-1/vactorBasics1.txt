@@ -1,0 +1,20 @@
+vec <- c(20, 10, 2, 34, 50)
+vec
+vec * 2
+vec / 2
+vec %% 2
+vec + 6
+
+vex <- c('one', 'two', 'three', 'four')
+vex
+
+class(vec)
+class(vex)
+
+max(vec)
+min(c(-3, 4, 1, -9, 5))
+
+c(1, 3, 4) + c(-3, 5, 0)
+c(2, 3, 4, 6) ^ c(2, 3)
+c(2, 3, 4, 7) %/% c(2, 3)
+c(3, 5, 1, 8) %% 3
